@@ -1,0 +1,11 @@
+C:\Users\Fastiraz\source\repos\converter\converter\obj\Debug\converter.csproj.AssemblyReference.cache
+C:\Users\Fastiraz\source\repos\converter\converter\obj\Debug\converter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fastiraz\source\repos\converter\converter\obj\Debug\converter.converter.resources
+C:\Users\Fastiraz\source\repos\converter\converter\obj\Debug\converter.Properties.Resources.resources
+C:\Users\Fastiraz\source\repos\converter\converter\obj\Debug\converter.csproj.GenerateResource.cache
+C:\Users\Fastiraz\source\repos\converter\converter\obj\Debug\converter.csproj.CoreCompileInputs.cache
+C:\Users\Fastiraz\source\repos\converter\converter\bin\Debug\converter.exe.config
+C:\Users\Fastiraz\source\repos\converter\converter\bin\Debug\converter.exe
+C:\Users\Fastiraz\source\repos\converter\converter\bin\Debug\converter.pdb
+C:\Users\Fastiraz\source\repos\converter\converter\obj\Debug\converter.exe
+C:\Users\Fastiraz\source\repos\converter\converter\obj\Debug\converter.pdb
