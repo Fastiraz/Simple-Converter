@@ -27,6 +27,11 @@ namespace converter
         {
             tbxfrom.Enabled = true;
             tbxto.Enabled = false;
+            this.Opacity = 0.95;
+
+            this.tbxfrom.SelectionLength = 0;
+            this.tbxfrom.SelectionStart = this.tbxfrom.Text.Length;
+            base.OnShown(e);
         }
 
         private void Drag_Enter(object sender, DragEventArgs e)
